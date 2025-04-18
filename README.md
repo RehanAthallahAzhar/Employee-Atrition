@@ -1,5 +1,9 @@
 # Proyek Akhir: Menyelesaikan Permasalahan Perusahaan Edutech
 
+## Link Youtube
+[Youtube Employee Atrition](https://youtu.be/U2FfcPBBCno)
+
+
 ## Business Understanding
 
 Jaya Jaya Maju adalah perusahaan multinasional yang telah berdiri sejak tahun 2000 dan memiliki lebih dari 1000 karyawan yang tersebar di seluruh Indonesia. Meskipun telah berkembang pesat, perusahaan menghadapi tantangan serius dalam manajemen SDM, khususnya terkait tingginya tingkat attrition (keluarnya karyawan), yang telah melebihi angka 10%.
